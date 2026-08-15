@@ -10,7 +10,7 @@ body{
     background-color:#f4e4ba;
 }
 .container{
-    background-color: #ddd2d2;
+    background-color: #d1c8c8;
     padding:2rem;
     border-radius: 1rem;
     min-height: 45vh;
@@ -61,7 +61,7 @@ form input{
     margin:2rem 0 2rem 0;
 }
 form button{
-    background-color: #c150a7;
+    background-color: #b34699;
    height:3rem;
    color:#fff;
    font-size: 1.15rem;
