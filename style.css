@@ -7,10 +7,10 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color:#dfd2ae;
+    background-color:#cec09c;
 }
 .container{
-    background-color: #c8b8b8;
+    background-color: #c1b1b1;
     padding:2rem;
     border-radius: 1rem;
     min-height: 45vh;
