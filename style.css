@@ -27,7 +27,7 @@ form select,input,button{
     border-radius: 0.75rem;
 }
 form input{
-    border:1px solid lightgray;
+    border:1px solid rgb(220, 219, 219);
     font-size: 1rem;
     height: 2.5rem;
     padding-left:0.5rem;
